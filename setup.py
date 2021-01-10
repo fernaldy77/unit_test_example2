@@ -18,3 +18,4 @@ setup(name="univariate_linear_regression",
                         "scipy==1.3.1",
                         ],
       )
+
